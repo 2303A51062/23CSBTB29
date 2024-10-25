@@ -8,3 +8,4 @@ https://colab.research.google.com/drive/1jM5BZcHAopjRBu__qavgcxtAU1NV5Gqb#scroll
 https://github.com/2303A51062/23CSBTB29/blob/main/lab_assignment5.ipynb
 https://github.com/2303A51062/23CSBTB29/blob/main/Classified_Data.txt.ipynb
 https://github.com/2303A51062/23CSBTB29/blob/main/Lab06_AIML.ipynb
+https://colab.research.google.com/drive/1O7haIMmpX145h5UNX2n2C8QXniVF0_Ck?pli=1#scrollTo=gKkOKXlneAuE&uniqifier=1
